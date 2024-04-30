@@ -1,3 +1,5 @@
+![Way2Win](https://github.com/Way2AR/three-test-assignment/assets/32157821/1f832bc2-ee67-4129-826c-596ed8c5af37)
+
 # Тестовое задание для THREE.js
 
 Разработать встраиваемый модуль для просмотра 3д моделей, используя THREE.js и TypeScript.
